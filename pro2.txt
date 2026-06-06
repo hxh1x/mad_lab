@@ -23,7 +23,7 @@
 </RelativeLayout>
 ---------------------------------------------------------------
 -------------------MainActivity.java-------------------------------------------
-package com.example.pro2;
+package com.example.program2;
 import android.content.pm.ActivityInfo;
 import android.os.Bundle;
 import android.view.View;
